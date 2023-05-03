@@ -1,6 +1,3 @@
-
-
-
 # VP美術規範 UE5.1                                                                                                                              
 > Latest version: V001.1_230427
 
@@ -49,7 +46,7 @@
 | Quad Overdraw             | 盡量保持多數面積為藍色                                                                               | Quad Overdraw會大幅影響效能                                                                                                                                                                                                          | 常見於多個透明物件或佈線過於密集的物件重疊處，盡量保持多數面積為藍色     |
 |                           |                                                                                                      |                                                                                                                                                                                                                                      |                                                                          |
 
-## Post Processing Volume
+## Post Processing
 | Post Processing           | Preferences                                                                                        | Why                                                                                                                                                                                                                                 | Notes                                                                    |
 | -------------- | ----------- | ------------------------- | -------------------------------- |
 | Min Brightness            | 和Max Brightness相同即可                                                                             | 真實攝影機不會像人眼瞳孔一樣，適應亮處到暗處而改變Iris，因此Exposure應為固定數值                                                                                                                                                     | Manual Mode，非固定數值                                                  |
