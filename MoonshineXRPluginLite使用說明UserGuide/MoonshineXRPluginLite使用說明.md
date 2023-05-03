@@ -27,6 +27,7 @@ Latest Version: 1.3.0
 1. 在場景中加入NDC。
    可以根據在MoonshineXR Studio的不同攝影棚，選擇其他NDC。![image](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/main/MoonshineXRPluginLite%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8EUserGuide/Img/Img_MSXRPluiginUserGuide_002.png?raw=true)
 2. 選擇NDC後，到Detail面板，開啟Editor Preview。
+   
    ![image](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/main/MoonshineXRPluginLite%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8EUserGuide/Img/Img_MSXRPluiginUserGuide_003.png?raw=true)
    ![image](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/main/MoonshineXRPluginLite%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8EUserGuide/Img/Img_MSXRPluiginUserGuide_004.png?raw=true)
    
