@@ -10,6 +10,7 @@ Latest Version: 1.3.0
 
 ## 安裝Plugin
 1. 將MoonshineXRPluginLite資料夾放入專案資料夾下的Plugins資料夾。
+   
    ![image](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/main/MoonshineXRPluginLite%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8EUserGuide/Img/Img_MSXRPluiginUserGuide_000.png?raw=true)
    > 若專案資料夾下無Plugins資料夾，可自行創建此資料夾。
 
