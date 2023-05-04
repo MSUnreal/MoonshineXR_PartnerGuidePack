@@ -1,5 +1,5 @@
 # ICVFX Best Practice for Artists UE5.1
-> Latest version: V001.0_230427                                                                                      
+> Latest version: 1.1.0                                                                                   
 
 ## Textures
 | Texture                               | Preferences                                                                                                                           | Why                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Notes                                                                                                                                                |
