@@ -1,4 +1,4 @@
-# VP美術規範 UE5.1                                                                                                                              
+# ICVFX美術規範 UE5.1                                                                                                                              
 > Latest version: V001.1_230427
 
 ## Textures
