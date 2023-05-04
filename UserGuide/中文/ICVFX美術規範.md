@@ -1,5 +1,5 @@
 # ICVFX美術規範 UE5.1                                                                                                                              
-> Latest version: V001.1_230427
+> Latest version: 1.1.0
 
 ## Textures
 | Subject                   | Preferences                                                                                          | Why                                                                                                                                                                                                                                  | Notes                                                                    |
