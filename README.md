@@ -2,7 +2,7 @@
 
 ### Plugins/MoonshineXRPluginLite
 
->This is a plugin that we created to help our partners to test the level performance and visualize their work within our virtual LED volume.
+>This is a Unreal Engine plugin that we created to help our partners to test the level performance and visualize their work within our virtual LED volume.
 * Scene performance testing
 * Previs tool
 
@@ -20,7 +20,7 @@
 
 ### Plugins/MoonshineXRPluginLite
 
->這是我們創建的一個插件，旨在幫助我們的合作夥伴測試場景的效能並在我們的虛擬LED空間中視覺化他們的作品
+>這是我們創建的一個Unreal Engine插件，旨在幫助我們的合作夥伴測試場景的效能並在我們的虛擬LED空間中視覺化他們的作品
 * 場景效能檢測
 * Previs模擬工具
 
