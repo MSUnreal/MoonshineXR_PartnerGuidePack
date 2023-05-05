@@ -2,7 +2,7 @@
 
 Plugins/MoonshineXRPluginLite
 * Scene performance testing
-* Previs simulation tool
+* Previs tool
 
 ICVFX_Level_Design_Guidelines_EN_1.1.0.md
 * To work collaboratively with our partners to produce better scene quality, we kindly ask our partners to refer to the level design guidelines specifications established by MoonshineXR for ICVFX projects.
