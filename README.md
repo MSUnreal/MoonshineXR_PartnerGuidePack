@@ -2,7 +2,7 @@
 
 ### Plugins/MoonshineXRPluginLite
 
->This is a plugin that we created to help our partners to test the level performance and visulize their work with in our virtual LED volume.
+>This is a plugin that we created to help our partners to test the level performance and visualize their work within our virtual LED volume.
 * Scene performance testing
 * Previs tool
 
