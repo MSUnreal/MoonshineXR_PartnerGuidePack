@@ -1,13 +1,14 @@
 # MoonshineXR_PartnerGuidePack
 
 Plugins/MoonshineXRPluginLite
-* 場景效能檢測
-* Previs模擬工具
+* Scene performance testing
+* Previs simulation tool
 
 ICVFX_Level_Design_Guidelines_EN_1.1.0.md
-* The purpose of this level designing pratice guidlines is to create a better quality of level design for ICVFX project.
+* To work collaboratively with our partners to produce better scene quality, we kindly ask our partners to refer to the level design guidelines specifications established by MoonshineXR for ICVFX projects.
 
-
+<br>
+<br>
 
 # MoonshineXR_合作夥伴_製作規範
 
