@@ -1,38 +1,7 @@
-# ICVFX_場景設計_規範_中文 UE5.1                                                                                                                              
+# ICVFX_場景設計_規範表_中文 UE5.1                                                                                                                              
 > Latest version: 1.1.0
 <br>
 
-1. 請將專案放在【_專案名稱】資料夾下，舉例: GenericVPXR -> _GenericVPXR
-
-2. 場景名稱前請加 '_' , 舉例: OutDoorScene.umap -> _OutDoorScene.umap
-
-3. 請將場景依照場景名稱 (註: 請翻譯成英文)，分成不同資料夾
-	資料夾架構舉例:
-
-~~~
-|-- Content
-    |-- _GenericVPXR <---(專案名稱)                         
-        |-- OutDoorScene <---(場景: 室外景)
-        |   |-- Maps  
-        |   |   |-- _OutDoorScene.umap  
-        |   |   |--OutDoorScene_Light.umap  
-        |   |   |--OutDoorScene_Props.umap  
-        |-- NatureEnv <---(場景: 自然景)                               
-        |   |-- Maps                               
-        |   |   |-- _NatureEnv.umap                               
-        |   |   |-- NatureEnv_Light.umap                               
-        |   |   |-- NatureEnv_Props.umap                               
-        |-- Office <---(場景: 辦公室)  
-        |   |-- Maps  
-        |   |   |-- _Office.umap  
-        |   |   |--  Office_Light.umap  
-        |   |   |--  Office_Props.umap  
-~~~
-
-4. 請將場景內需要使用的Sequencer、Blueprint、Niagara System、Alembic、時間控制、特殊需求等等資訊，撰寫在專案資料夾內的Readme.txt文件，告知夢想技術執行團隊。
-
-
-5. 場景美術設定表:
 
 ## Textures
 | Subject                   | Preferences                                                                                          | Why                                                                                                                                                                                                                                  | Notes                                                                    |
