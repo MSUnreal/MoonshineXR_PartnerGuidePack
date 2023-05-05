@@ -14,6 +14,35 @@
 [ICVFX_Level_Design_Guidelines_EN_1.1.0.md](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/main/ICVFX_Level_Design_Guidelines_EN_1.1.0.md)
 
 <br>
+1. Please place the project in the folder named [ProjectName] preceded by an underscore, for example: GenericVPXR -> _GenericVPXR
+
+2. Prefix the scene name with an underscore, for example: OutDoorScene.umap -> _OutDoorScene.umap
+
+3. Organize the scenes into different folders based on their names, and translate the names into English. Folder structure example:
+
+~~~
+|-- Content
+    |-- _GenericVPXR <---(Project Name)                         
+        |-- OutDoorScene <---(Scene: Outdoor scene)
+        |   |-- Maps  
+        |   |   |-- _OutDoorScene.umap  
+        |   |   |--OutDoorScene_Light.umap  
+        |   |   |--OutDoorScene_Props.umap  
+        |-- NatureEnv <---(Scene: Nature scene)                               
+        |   |-- Maps                               
+        |   |   |-- _NatureEnv.umap                               
+        |   |   |-- NatureEnv_Light.umap                               
+        |   |   |-- NatureEnv_Props.umap                               
+        |-- Office <---(Scene: Office)  
+        |   |-- Maps  
+        |   |   |-- _Office.umap  
+        |   |   |--  Office_Light.umap  
+        |   |   |--  Office_Props.umap  
+~~~
+
+4. Please provide the necessary information regarding Sequencer, Blueprint, Niagara System, Alembic, time control, special requirements, etc. inside a Readme.txt file located in the project folder, so that the Dreamtech execution team is informed.
+
+<br>
 <br>
 
 # MoonshineXR_合作夥伴_製作規範
