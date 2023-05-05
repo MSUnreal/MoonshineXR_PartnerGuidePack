@@ -14,6 +14,7 @@
 [ICVFX_Level_Design_Guide_Table_EN_1.1.0.md](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/main/ICVFX_Level_Design_Guide_Table_EN_1.1.0.md)
 
 <br>
+
 1. Please place the project in the folder named [ProjectName] preceded by an underscore, for example: GenericVPXR -> _GenericVPXR
 
 2. Prefix the scene name with an underscore, for example: OutDoorScene.umap -> _OutDoorScene.umap
@@ -61,6 +62,7 @@
 [ICVFX_場景設計_規範表_中文_1.1.0.md](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/main/ICVFX_%E5%A0%B4%E6%99%AF%E8%A8%AD%E8%A8%88_%E8%A6%8F%E7%AF%84%E8%A1%A8_%E4%B8%AD%E6%96%87_1.1.0.md)
 
 <br>
+
 1. 請將專案放在【_專案名稱】資料夾下，舉例: GenericVPXR -> _GenericVPXR
 
 2. 場景名稱前請加 '_' , 舉例: OutDoorScene.umap -> _OutDoorScene.umap
