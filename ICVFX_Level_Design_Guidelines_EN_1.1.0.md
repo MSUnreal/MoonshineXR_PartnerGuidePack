@@ -7,23 +7,25 @@
 
 3. Organize the scenes into different folders based on their names, and translate the names into English. Folder structure example:
 
+~~~
 |-- Content
-|-- _GenericVPXR (project name)
-|-- OutDoorScene
-| |-- Maps
-| | |-- _OutDoorScene.umap
-| | |--OutDoorScene_Light.umap
-| | |--OutDoorScene_Props.umap
-|-- NatureEnv
-| |-- Maps
-| | |-- _NatureEnv.umap
-| | |-- NatureEnv_Light.umap
-| | |-- NatureEnv_Props.umap
-|-- Office
-| |-- Maps
-| | |-- _Office.umap
-| | |-- Office_Light.umap
-| | |-- Office_Props.umap
+    |-- _GenericVPXR <---(專案名稱)                         
+        |-- OutDoorScene <---(場景: 室外景)
+        |   |-- Maps  
+        |   |   |-- _OutDoorScene.umap  
+        |   |   |--OutDoorScene_Light.umap  
+        |   |   |--OutDoorScene_Props.umap  
+        |-- NatureEnv <---(場景: 自然景)                               
+        |   |-- Maps                               
+        |   |   |-- _NatureEnv.umap                               
+        |   |   |-- NatureEnv_Light.umap                               
+        |   |   |-- NatureEnv_Props.umap                               
+        |-- Office <---(場景: 辦公室)  
+        |   |-- Maps  
+        |   |   |-- _Office.umap  
+        |   |   |--  Office_Light.umap  
+        |   |   |--  Office_Props.umap  
+~~~
 
 4. Please provide the necessary information regarding Sequencer, Blueprint, Niagara System, Alembic, time control, special requirements, etc. inside a Readme.txt file located in the project folder, so that the Dreamtech execution team is informed.
 
