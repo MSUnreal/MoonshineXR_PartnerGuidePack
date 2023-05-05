@@ -1,6 +1,35 @@
 # ICVFX Best Practice for Artists UE5.1
 > Latest version: 1.1.0                                                                                   
 
+1. Please place the project in the folder named [ProjectName] preceded by an underscore, for example: GenericVPXR -> _GenericVPXR
+
+2. Prefix the scene name with an underscore, for example: OutDoorScene.umap -> _OutDoorScene.umap
+
+3. Organize the scenes into different folders based on their names, and translate the names into English. Folder structure example:
+
+|-- Content
+|-- _GenericVPXR (project name)
+|-- OutDoorScene
+| |-- Maps
+| | |-- _OutDoorScene.umap
+| | |--OutDoorScene_Light.umap
+| | |--OutDoorScene_Props.umap
+|-- NatureEnv
+| |-- Maps
+| | |-- _NatureEnv.umap
+| | |-- NatureEnv_Light.umap
+| | |-- NatureEnv_Props.umap
+|-- Office
+| |-- Maps
+| | |-- _Office.umap
+| | |-- Office_Light.umap
+| | |-- Office_Props.umap
+
+4. Please provide the necessary information regarding Sequencer, Blueprint, Niagara System, Alembic, time control, special requirements, etc. inside a Readme.txt file located in the project folder, so that the Dreamtech execution team is informed.
+
+5. Scene art settings table:
+
+
 ## Textures
 | Texture                               | Preferences                                                                                                                           | Why                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Notes                                                                                                                                                |
 | ------- | ------- | -------------- | ------------------ |
