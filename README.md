@@ -49,7 +49,7 @@
 
 ### Plugins/MoonshineXRPluginLite
 
->這是我們創建的一個Unreal Engine插件，旨在幫助我們的合作夥伴測試場景的效能並在我們的虛擬LED空間中視覺化他們的作品
+>這是我們創建的一個Unreal Engine插件，為了幫助我們的合作夥伴能測試場景效能，並在我們提供的虛擬LED空間中視覺化現場拍攝的呈現效果
 * 場景效能檢測
 * Previs模擬工具
 
