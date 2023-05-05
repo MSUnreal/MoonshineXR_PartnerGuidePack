@@ -1,4 +1,4 @@
-# ICVFX Best Practice for Artists UE5.1
+# ICVFX_Level_Design_Guidelines_EN UE5.1
 > Latest version: 1.1.0                                                                                   
 
 1. Please place the project in the folder named [ProjectName] preceded by an underscore, for example: GenericVPXR -> _GenericVPXR
@@ -9,18 +9,18 @@
 
 ~~~
 |-- Content
-    |-- _GenericVPXR <---(專案名稱)                         
-        |-- OutDoorScene <---(場景: 室外景)
+    |-- _GenericVPXR <---(Project Name)                         
+        |-- OutDoorScene <---(Scene: Outdoor scene)
         |   |-- Maps  
         |   |   |-- _OutDoorScene.umap  
         |   |   |--OutDoorScene_Light.umap  
         |   |   |--OutDoorScene_Props.umap  
-        |-- NatureEnv <---(場景: 自然景)                               
+        |-- NatureEnv <---(Scene: Nature scene)                               
         |   |-- Maps                               
         |   |   |-- _NatureEnv.umap                               
         |   |   |-- NatureEnv_Light.umap                               
         |   |   |-- NatureEnv_Props.umap                               
-        |-- Office <---(場景: 辦公室)  
+        |-- Office <---(Scene: Office)  
         |   |-- Maps  
         |   |   |-- _Office.umap  
         |   |   |--  Office_Light.umap  
