@@ -29,7 +29,7 @@
 
 4. Please provide the necessary information regarding Sequencer, Blueprint, Niagara System, Alembic, time control, special requirements, etc. inside a Readme.txt file located in the project folder, so that the Dreamtech execution team is informed.
 
-5. Scene art settings table:
+5. Level design settings guide table:
 
 
 ## Textures
