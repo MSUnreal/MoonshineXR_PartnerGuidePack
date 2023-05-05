@@ -10,7 +10,7 @@ ICVFX_Level_Design_Guidelines_EN_1.1.0.md
 <br>
 <br>
 
-# MoonshineXR_合作夥伴_製作規範
+# MoonshineXR_合作夥伴_製作規範_大補帖
 
 Plugins/MoonshineXRPluginLite
 * 場景效能檢測
