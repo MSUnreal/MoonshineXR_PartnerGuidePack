@@ -43,6 +43,8 @@
 
 4. Please provide the necessary information regarding Sequencer, Blueprint, Niagara System, Alembic, time control, special requirements, etc. inside a Readme.txt file located in the project folder, so that the Dreamtech execution team is informed.
 
+5. Please follow Unreal Document ICVFX Best Practice - https://docs.unrealengine.com/5.1/en-US/in-camera-vfx-best-practices-in-unreal-engine/
+
 <br>
 <br>
 
@@ -92,5 +94,6 @@
 
 4. 請將場景內需要使用的Sequencer、Blueprint、Niagara System、Alembic、時間控制、特殊需求等等資訊，撰寫在專案資料夾內的Readme.txt文件，告知夢想技術執行團隊。
 
+5. 請參閱官方 ICVFX 建議設定 - https://docs.unrealengine.com/5.1/zh-CN/in-camera-vfx-best-practices-in-unreal-engine/
 
 <br>
